@@ -1,2 +1,2 @@
-# serverless-framework
-Daytime Discos serverless typescript framework
+# Daytime Discos serverless typescript framework
+
